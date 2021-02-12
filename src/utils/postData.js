@@ -1,4 +1,4 @@
-export const articlesData = [
+export const postData = [
   {
     path: 'learn-react',
     title: 'Learn React for making a lot of fun',

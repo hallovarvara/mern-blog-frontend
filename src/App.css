@@ -3,6 +3,10 @@ body {
   font-size: 18px;
 }
 
+main {
+  padding-top: 90px;
+}
+
 button {
   padding: 16px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
